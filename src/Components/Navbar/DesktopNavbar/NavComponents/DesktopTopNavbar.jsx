@@ -20,8 +20,11 @@ const TopNavbar = () => {
         <Container
           width={"100%"}
           maxW="100%"
-          bg={"rgb(50,174,177)"}
+          bg={"rgba(255, 255, 255, 0.19)"}
           paddingBlock="15px"
+          boxShadow="0 4px 30px rgba(0, 0, 0, 0.1)"
+          backdropFilter="blur(13px)"
+          borderBottom="1px solid rgba(255, 255, 255, 0.19)"
         >
           <Flex justifyContent={"center"} gap="20px" alignItems={"center"}>
             <Link to={"/"}>
