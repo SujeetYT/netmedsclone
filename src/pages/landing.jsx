@@ -29,7 +29,7 @@ export const Landing = () => {
     <ThreeCategory/>
     <TrendingToday/>
     <PreviousAndBeauty/>
-    <PaymentsPartner/>
+    <PaymentsPartner/>+
     <LimitedTimeDeals/>
     <BrandDays/>
     <ShopByCategory/>
