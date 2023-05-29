@@ -236,7 +236,7 @@ const {totalMRP,discount,promoCodeDiscount,getData,cartData,loading}= useContext
 
 
             <Flex justifyContent="space-between">
-              <Text>Netmeds Discount</Text>
+              <Text>Carewell Discount</Text>
               <Text>- Rs.{discount.toFixed(2)}</Text>
             </Flex>
 

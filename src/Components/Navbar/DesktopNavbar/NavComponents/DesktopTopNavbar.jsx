@@ -5,7 +5,7 @@ import UserButton from "./UserButton";
 import InputComponent from "./InputComponent";
 import { Link } from "react-router-dom";
 import CartNavbar from "./CartNavbar";
-import Logo from "../../../../assets/Carewell1.png";
+import Logo from "../../../../assets/Carewell.png";
 import { SlWallet } from "react-icons/sl";
 
 // import {
@@ -20,7 +20,7 @@ const TopNavbar = () => {
         <Container
           width={"100%"}
           maxW="100%"
-          bg={"rgba(255, 255, 255, 0.19)"}
+          bg={"rgba(255, 255, 255, 0.29)"}
           paddingBlock="15px"
           boxShadow="0 4px 30px rgba(0, 0, 0, 0.1)"
           backdropFilter="blur(13px)"
@@ -31,7 +31,7 @@ const TopNavbar = () => {
               <Box paddingRight={"20px"}>
                 <Image
                   src={Logo}
-                  alt="NetmedsLogo"
+                  alt="CarewellLogo"
                   w={"130px"}
                   minWidth="130px"
                   maxWidth="130px"
@@ -48,7 +48,7 @@ const TopNavbar = () => {
             <Button
               bgColor={"rgb(50,174,177)"}
               _hover={{ bg: "rgb(50,174,177)" }}
-              size="xs"
+              size="md"
             >
               <Flex>
                 <SlWallet size={18} color="#fff" /> &nbsp;&nbsp;&nbsp;
@@ -60,7 +60,7 @@ const TopNavbar = () => {
           </Flex>
         </Container>
       </Box>
-      <Box width={"100%"} height="90px" bg={"rgb(50,174,177)"}></Box>
+      <Box width={"100%"} height="60px" bg={"rgb(50,174,177)"}></Box>
     </>
   );
 };

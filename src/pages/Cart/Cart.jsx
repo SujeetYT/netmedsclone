@@ -323,7 +323,7 @@ export const Cart = () => {
                                             <Text>Rs.{parseFloat(totalMRP).toFixed(2)}</Text>
                                         </Flex>
                                         <Flex fontSize={'14px'} mb='10px' justifyContent={'space-between'}>
-                                            <Text>Netmeds Discount</Text>
+                                            <Text>Carewell Discount</Text>
                                             <Text>-Rs.{parseFloat(discount).toFixed(2)}</Text>
                                         </Flex>
                                         {

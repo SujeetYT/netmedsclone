@@ -10,7 +10,7 @@ const DesktopNavbar = () => {
   let currlocation = useLocation();
   useEffect(() => {
     setlocation(currlocation);
-    document.title = "Carewell.com: Pharmacy Store";
+    document.title = "Carewell | Pharmacy Store";
   }, [useLocation()]);
 
   return (

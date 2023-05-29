@@ -231,7 +231,7 @@ const PaymentDetails={
 
             <Box  padding='10px'mb='60px' id='boxshadow' >
               <Text color='rgba(21,27,57,.6)' fontSize='12px'  mb='20px'>Customer Notes</Text>
-              <textarea style={{padding: '5px'}} name="paragraph_text" cols="30" rows="5" ></textarea>
+              <textarea style={{padding: '5px', border: '2px solid #32aeb1', borderRadius: '5px'}} name="paragraph_text" cols="30" rows="5" placeholder="Leave your comment..." ></textarea>
             </Box>
           </Box>
 
@@ -255,7 +255,7 @@ const PaymentDetails={
 
 
             <Flex justifyContent="space-between">
-              <Text>Netmeds Discount</Text>
+              <Text>Carewell Discount</Text>
               <Text>- Rs.{discount.toFixed(2)}</Text>
             </Flex>
             {
