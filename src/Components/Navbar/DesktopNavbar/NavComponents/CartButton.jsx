@@ -12,7 +12,8 @@ const CartButton = ({count}) => {
       <Box
         bgColor={"rgb(50,174,177)"}
         _hover={{ bg: "rgb(50,174,177)" }}
-        size="xs"
+        borderRadius="md"
+        padding='5px'
       >
         <Flex align={"center"}>
           <Avatar
@@ -39,6 +40,7 @@ const CartButton = ({count}) => {
             fontSize="14px"
             fontWeight="semibold"
             paddingLeft={"5px"}
+            paddingRight={"15px"}
           >
             Cart
           </Text>

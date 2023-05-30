@@ -36,7 +36,7 @@ const CartNavbar = () => {
     <Menu isOpen={isOpen} isLazy={true} placement="bottom-end">
       <MenuButton
         fontSize="14px"
-        size="sm"
+        size="md"
         p={"0px"}
         isActive={isOpen}
         colorScheme="rgb(50,174,177)"

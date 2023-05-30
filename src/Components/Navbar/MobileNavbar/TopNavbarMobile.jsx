@@ -20,7 +20,7 @@ const MobileNavbar = () => {
       >
         <Link to='/'><Image
           src="https://www.netmeds.com/assets/gloryweb/images/netmeds-footer-logo.svg"
-          alt="netmedslogomobile"
+          alt="CarewellLogoMobile"
           width={"110px"}
         ></Image></Link>
         <Flex>

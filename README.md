@@ -1,4 +1,4 @@
-# Clone of Netmeds
+# Clone of Carewell
 ![image](https://user-images.githubusercontent.com/108894016/196782014-aadff2e4-8c29-4dfa-bcd2-0fa8b687cac9.png)
 
 ## Question statement
@@ -17,7 +17,7 @@ Hello, we are learning Full stack Web Development at Masai School. During Unit 6
 We have created the navigation bar which has dropdown menus on hover, a cart section where the user can see the total number of products in the cart in real-time, and a login/signup button.
 ![image](https://user-images.githubusercontent.com/108894016/196271579-0e16f0ba-0819-45be-876d-ca9a9512eeb4.png)
 
-The Homepage of Netmeds website shows the various medicines of different categories like diabetic, ayurvedic, homeopathy and treatments, etc.
+The Homepage of Carewell website shows the various medicines of different categories like diabetic, ayurvedic, homeopathy and treatments, etc.
 
 ![image](https://user-images.githubusercontent.com/108894016/196271764-5a1c11f8-c8c1-4a89-acae-8581d68f248d.png)
 
@@ -72,7 +72,7 @@ On the payment page user will be asked to fill in the basic payment details i.e,
 
 ![image](https://user-images.githubusercontent.com/108894016/196272395-ee3b565f-5ca6-4203-a418-8d5c5a611715.png)
 
-After filling in the card details, on a successful transaction user will be redirected to the home page of netmeds.
+After filling in the card details, on a successful transaction user will be redirected to the home page of Carewell.
 
 ## Roles and Responsibilities
 

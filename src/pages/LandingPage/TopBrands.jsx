@@ -21,11 +21,6 @@ export default function TopBrands() {
         },
         {
             id: 4,
-            title: 'Manforce',
-            off: 'Up to 25% off'
-        },
-        {
-            id: 5,
             title: 'Cetaphil',
             off: 'Up to 10% off'
         }

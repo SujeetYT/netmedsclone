@@ -7,7 +7,7 @@ import {
   } from "@chakra-ui/react";
 const UploadButton = ()=>{
     return(<Box>
-    <Button bgColor={'rgb(50,174,177)'}  _hover={{ bg:"rgb(50,174,177)" }} size='xs'>
+    <Button bgColor={'rgb(50,174,177)'}  _hover={{ bg:"rgb(50,174,177)" }} size='md'>
       <Flex>
         <Image
           pr={"5px"}
